@@ -1,2 +1,5 @@
-# data_mining_machine_learning_course
-My solutions for Data mining and machine learning course
+# Data mining and machine learning course solutions
+## 2020/2021 01.
+## [course page](https://csabaibio.github.io/physdm/)
+
+

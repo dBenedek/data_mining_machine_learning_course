@@ -6,5 +6,6 @@
 
 ### Content
 - data: contains datasets, additional files
-- code: contains Jupyter notebooks with solutions
+- notebooks: contains Jupyter notebooks with solutions
+- code: contains raw Python code format of the notebooks
 

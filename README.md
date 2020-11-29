@@ -20,3 +20,5 @@
 8. Decision trees, Random forest
 9. Neural networks (NN)
 10. Convolutional neural networks (CNN)
+11. More neural networks (pretrained models, transfer learning)
+12. Natural Language Processing (NLP)
